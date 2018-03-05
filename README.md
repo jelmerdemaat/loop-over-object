@@ -1,4 +1,6 @@
 # loopOverObject
+[GitHub](https://github.com/jelmerdemaat/loop-over-object) | [NPM](https://www.npmjs.com/package/loop-over-object) | [@jelmerdemaat](https://twitter.com/jelmerdemaat)
+
 Small, safe JavaScript function that correctly loops over an object.
 
 * ES6 ready.
@@ -6,6 +8,16 @@ Small, safe JavaScript function that correctly loops over an object.
 * Filters array on `object.hasOwnProperty` to check if the property really exists.
 
 ## Usage
+Add to your dependencies:
+
+```sh
+  npm install --save loop-over-object
+  # or shorter:
+  npm i -S loop-over-object
+```
+
+Use in your JS:
+
 ```js
 import loopOverObject from 'loop-over-object';
 
