@@ -7,7 +7,7 @@ Small, safe JavaScript function that correctly loops over an object.
 
 ## Usage
 ```js
-import loopOverObject from 'loopOverObject';
+import loopOverObject from 'loop-over-object';
 
 const object = {
   name: 'Jelmer',
