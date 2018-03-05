@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/jelmerdemaat/loop-over-object/issues"
   },
-  "homepage": "https://github.com/jelmerdemaat/loop-over-object#readme"
+  "homepage": "https://github.com/jelmerdemaat/loop-over-object#readme",
+  "format": "esm"
 }
